@@ -2,8 +2,8 @@
 //  main.m
 //  MyApp
 //
-//  Created by Ping Ahn on 8/12/14.
-//  Copyright (c) 2014 SoftAIC. All rights reserved.
+//  Created by Faustino L on 8/12/14.
+
 //
 
 #import <UIKit/UIKit.h>
